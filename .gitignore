@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/ConsoleApp/ConsoleApp/obj/Debug
+/ConsoleApp/ConsoleApp/bin/Debug
+/ConsoleApp/.vs/ConsoleApp/v15
+/.vs
